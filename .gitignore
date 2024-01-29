@@ -13,7 +13,3 @@ media
 
 # Distribution / packaging
 .Python
-
-# Celery stuff
-celerybeat-schedule
-celerybeat.pid
